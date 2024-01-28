@@ -3,6 +3,8 @@ abstract class AppAssets{
   static const String docdocLogoLowOpacity = "assets/svg/docdoc_logo_low_opacity.svg";
   static const String logo = "assets/svg/logo.svg";
   static const String doctor = "assets/images/doctor.png";
+  static const String splashScreen = "assets/images/Splash Screen.png";
+
 
 
 
